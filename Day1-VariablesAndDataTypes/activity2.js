@@ -1,0 +1,4 @@
+// Activity 2: Constant Declaration
+// Task 3: Declare a variable using const , asign it a boolean value, and log the value to the console.
+const bool=true
+console.log(bool)
